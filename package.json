@@ -1,0 +1,19 @@
+{
+  "name": "first_package",
+  "version": "1.0.0",
+  "description": "This is my first package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bekhzodallaev/node_1_pack.git"
+  },
+  "author": "bekhzodallaev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bekhzodallaev/node_1_pack/issues"
+  },
+  "homepage": "https://github.com/bekhzodallaev/node_1_pack#readme"
+}
